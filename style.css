@@ -45,6 +45,8 @@ body * {
 
 #profile img {
     width: 112px;
+    border-radius: 99%;
+    border: 2px solid var(--stroke-color);
 }
 
 #profile p {
@@ -59,6 +61,7 @@ body * {
     position: relative;
     width: 64px;
     margin: 4px auto;
+    cursor: pointer;
 }
 
 #switch button {
@@ -73,6 +76,7 @@ body * {
     left: 0;
     z-index: 1;
     transform: translateY(-50%);
+    cursor: pointer;
 }
 
 .light #switch button {
@@ -90,6 +94,7 @@ body * {
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     border-radius: 9999px;
+    cursor: pointer;
 }
 
 /* links */
