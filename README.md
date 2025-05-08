@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="preview do projeto" src="" width="80%">
+  <img alt="preview do projeto" src="https://raw.githubusercontent.com/maykbrito/devlinks/refs/heads/main/.github/preview.jpg" width="80%">
 </p>
 
 ---
